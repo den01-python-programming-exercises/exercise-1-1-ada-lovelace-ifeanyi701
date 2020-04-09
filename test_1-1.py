@@ -1,4 +1,4 @@
-import 1-1-ada-lovelace
+import 1-1
 
 def test_ada():
-    assert 1-1-ada-lovelace.ada() == "Ada Lovelace"
+    assert 1-1.ada() == "Ada Lovelace"
