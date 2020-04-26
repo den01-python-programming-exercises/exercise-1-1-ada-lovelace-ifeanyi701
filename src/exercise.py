@@ -1,3 +1,4 @@
-def ada():
+def main():
   #write your code below this line
-ada()
+
+main()
